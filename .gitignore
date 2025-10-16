@@ -1,0 +1,13 @@
+# Abaikan folder node_modules
+node_modules/
+
+# Abaikan file environment (jika ada)
+.env
+
+# Abaikan folder hasil build atau dist
+dist/
+build/
+
+# Abaikan file sistem dari komputer
+.DS_Store
+Thumbs.db
